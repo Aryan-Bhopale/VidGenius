@@ -40,8 +40,8 @@ It leverages **Streamlit** for UI, **LangChain** for RAG and embeddings, and **G
 
 1️⃣ **Clone the Repository**
 ```bash
-git clone https://github.com/Thakurbhanupratap/VIDGENIUS.git
-cd VIDGENIUS
+https://github.com/Aryan-Bhopale/VidGenius.git
+cd VidGenius
 ```
 
 2️⃣ **Install Dependencies**
@@ -79,17 +79,3 @@ streamlit run src/app.py
 ├── .env.example
 ```
 
-## 🤝 Contributing
-We welcome contributions!
-  - Fork the repo
-  - Create a feature branch: git checkout -b feature/new-feature
-  - Commit changes: git commit -m "Add new feature"
-  - Push to branch: git push origin feature/new-feature
-  - Open a pull request using the PR template
-Please follow our [Code of Conduct](CODE_OF_CONDUCT.md) and [Contributing Guidelines](CONTRIBUTING.md).
-
-## 📜 License
-This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.
-
-## 📧 Contact / Support
-For questions or issues, contact: bhanugahlot2003@gmail.com
